@@ -12,7 +12,7 @@
     {
       "matchPackagePatterns": ["^@hubinity/"],
       "groupName": "hubinity internal packages",
-      "schedule": ["at any time"]
+      "schedule": [""]
     },
     {
       "matchManagers": ["maven"],
